@@ -6,6 +6,8 @@ same lab network.
 
 Tailscale version: 1.104.7 (Linux client).
 
+See also: [Reaching a lab web GUI through SSH](ssh-web-gui-access.md).
+
 ## Symptom
 
 - `ssh` to seat8 over Tailscale works.
